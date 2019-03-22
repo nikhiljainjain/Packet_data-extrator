@@ -1,0 +1,13 @@
+Source MAC Address       :43:1e:1e:08:00:
+Destination MAC Address: d:d2:9c:7d:24:fd:
+Total length: 37088
+Identification: 0x0 0 
+TCP: b 
+Header checksum: 0x0 8 
+Source IP: 192:168:43:151
+Destination IP: 117:18:237:42
+Source Port: 4272
+Destination Port: 20496
+
+Program by
+NIKHIL JAIN
